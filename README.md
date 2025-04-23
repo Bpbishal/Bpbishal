@@ -33,8 +33,9 @@
 <!-- GitHub Streak - Radish Dark -->
 <p>
   <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=bpbishal&background=0d1117&ring=ff4c65&fire=ff4c65&currStreakLabel=ff4c65&sideLabels=c9d1d9&dates=c9d1d9" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=bpbishal&background=0d1117&ring=ff4c65&fire=ff4c65&currStreakLabel=ff4c65&sideLabels=ffffff&dates=ffffff" 
        alt="bpbishal" />
 </p>
+
 
 
