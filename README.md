@@ -9,10 +9,9 @@
 
 - 📫 How to reach me **bishalpal816@gmailcom**
 
-- ⚡ Fun fact<br>
-  🛠️ “Just one more feature” has turned many of my simple projects into full-blown apps.
+- ⚡ Fun fact 🛠️ “Just one more feature” has turned many of my simple projects into full-blown apps.
 
-  🧩 Believe in: "Build → Break → Fix → Repeat → Learn".!
+- 🧩 Believe in: "Build → Break → Fix → Repeat → Learn".!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
