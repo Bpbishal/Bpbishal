@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Paul</h1>
-<h3 align="center">A Computer Science student</h3>
+<h3 align="center">🎓 A Computer Science student,  
+🧠 Majoring in Software Engineering,  
+🌐 Web Dev enthusiast | Framework explorer | Tech adventurer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpbishal&label=Profile%20views&color=0e75b6&style=flat" alt="bpbishal" /> </p>
 
@@ -7,7 +9,10 @@
 
 - 📫 How to reach me **bishalpal816@gmailcom**
 
-- ⚡ Fun fact **I struggle to focus on research papers, but somehow, I always manage to decode them!**
+- ⚡ Fun fact<br>
+  🛠️ “Just one more feature” has turned many of my simple projects into full-blown apps.
+
+  🧩 Believe in: "Build → Break → Fix → Repeat → Learn".!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
