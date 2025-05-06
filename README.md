@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bpbishal" alt="bpbishal" /></a> </p>
 
-- 📫 How to reach me **bishalpal816@gmailcom**
-
-- ⚡ Fun fact 🛠️ “Just one more feature” has turned many of my simple projects into full-blown apps.
-
 - 🧩 Believe in: "Build → Break → Fix → Repeat → Learn".!
+- 📫 How to reach me **bishalpal816@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
