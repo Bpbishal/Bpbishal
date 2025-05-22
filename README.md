@@ -36,7 +36,6 @@
   <img align="center" 
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpbishal&background=0d1117&ring=ff4c65&fire=ff4c65&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
-       alt="bpbishal" />
 </p>
 
 
